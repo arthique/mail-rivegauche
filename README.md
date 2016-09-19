@@ -6,6 +6,9 @@ I use XHTML and inline-style CSS.
 ## Demo
 **[CHANEL LE LIFT](http://htmlpreview.github.io/?https://github.com/arthique/mail-rivegauche/blob/master/chanel-le-lift/mail.html)**
 
+## Structure
+`/chanel-le-lift/mail.hml` - "CHANEL LE LIFT" mail template.
+
 ## Features
 * Fixed width
 * XHTML
