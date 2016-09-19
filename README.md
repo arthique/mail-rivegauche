@@ -19,4 +19,5 @@ I use XHTML and inline-style CSS.
 
 ## License
 All code here is in MIT license.
+
 All trademarks and registered trademarks are the property of their respective owners.
