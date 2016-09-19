@@ -8,9 +8,14 @@ I use XHTML and inline-style CSS.
 
 **[The perfect summer makeup with novelties Smashbox](http://htmlpreview.github.io/?https://github.com/arthique/mail-rivegauche/blob/master/smashbox-summer-makeup/mail.html)**
 
+**[The bright colors of spring](http://htmlpreview.github.io/?https://github.com/arthique/mail-rivegauche/blob/master/the-bright-colors-of-spring/mail.html)**
+
 ## Structure
 `/chanel-le-lift/mail.hml` - "CHANEL LE LIFT" mail template.
+
 `/smashbox-summer-makeup/mail.hml` - "The perfect summer makeup with novelties Smashbox" mail template.
+
+`/the-bright-colors-of-spring/mail.hml` - "The bright colors of spring" mail template.
 
 ## Features
 * Fixed width
