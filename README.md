@@ -4,7 +4,7 @@ This template is example of my work as a junior frontend developer.
 I use XHTML and inline-style CSS.
 
 ## Demo
-**[Look at the template](http://htmlpreview.github.io/?)**
+**[CHANEL LE LIFT](http://htmlpreview.github.io/?https://github.com/arthique/mail-rivegauche/blob/master/chanel-le-lift/mail.html)**
 
 ## Features
 * Fixed width
@@ -15,7 +15,8 @@ I use XHTML and inline-style CSS.
 * Google.com Mail Service (Web & mobile app)
 * Yandex.ru Mail Service (Web & mobile app)
 * Mail.ru Mail Service (Web & mobile app)
-* MS Outlook 2007
+* MS Outlook 2007 (Windows App & web)
 
 ## License
 All code here is in MIT license.
+All trademarks and registered trademarks are the property of their respective owners.
