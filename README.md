@@ -5,9 +5,11 @@ I use XHTML and inline-style CSS.
 
 ## Demo
 **[CHANEL LE LIFT](http://htmlpreview.github.io/?https://github.com/arthique/mail-rivegauche/blob/master/chanel-le-lift/mail.html)**
+**[The perfect summer makeup with novelties Smashbox](http://htmlpreview.github.io/?https://github.com/arthique/mail-rivegauche/blob/master/smashbox-summer-makeup/mail.html)**
 
 ## Structure
 `/chanel-le-lift/mail.hml` - "CHANEL LE LIFT" mail template.
+`/smashbox-summer-makeup/mail.hml` - "The perfect summer makeup with novelties Smashbox" mail template.
 
 ## Features
 * Fixed width
