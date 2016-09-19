@@ -1,7 +1,7 @@
 Email html template
 =============
 This template is example of my work as a junior frontend developer.
-I use XHTML and inline-style CSS.
+I used XHTML and inline-style CSS.
 
 ## Demo
 **[CHANEL LE LIFT](http://htmlpreview.github.io/?https://github.com/arthique/mail-rivegauche/blob/master/chanel-le-lift/mail.html)**
